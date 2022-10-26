@@ -1,0 +1,110 @@
+[
+    {
+        "_id": "01",
+        "course_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_students": 488,
+        "title": "Angular Course for Beginner",
+        "author": {
+            "name": "Al-Amin",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://assets.about.me/background/users/a/l/a/alaminalvi_1592632565_868.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/BsXhn9g/Angular.jpg",
+        "image_url": "https://i.ibb.co/BsXhn9g/Angular.jpg",
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+    },
+    {
+        "_id": "02",
+        "course_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_students": 488,
+        "title": "React.js Course for Beginner",
+        "author": {
+            "name": "Al-Amin",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://assets.about.me/background/users/a/l/a/alaminalvi_1592632565_868.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/wrWBT7X/React-js.jpg",
+        "image_url": "https://i.ibb.co/wrWBT7X/React-js.jpg",
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+    },
+    {
+        "_id": "03",
+        "course_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_students": 488,
+        "title": "Vue.js Course for Beginner",
+        "author": {
+            "name": "Al-Amin",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://assets.about.me/background/users/a/l/a/alaminalvi_1592632565_868.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/MSqn24k/Vue-js.jpg",
+        "image_url": "https://i.ibb.co/MSqn24k/Vue-js.jpg",
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+    },
+    {
+        "_id": "04",
+        "course_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_students": 488,
+        "title": "Spring Course for Beginner",
+        "author": {
+            "name": "Al-Amin",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://assets.about.me/background/users/a/l/a/alaminalvi_1592632565_868.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/6rQ00RH/Spring.jpg",
+        "image_url": "https://i.ibb.co/6rQ00RH/Spring.jpg",
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+    },
+    {
+        "_id": "05",
+        "course_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_students": 488,
+        "title": "Express.js Course for Beginner",
+        "author": {
+            "name": "Al-Amin",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://assets.about.me/background/users/a/l/a/alaminalvi_1592632565_868.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
+        "image_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+    },
+    {
+        "_id": "06",
+        "course_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_students": 488,
+        "title": "Flask Course for Beginner",
+        "author": {
+            "name": "Al-Amin",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://assets.about.me/background/users/a/l/a/alaminalvi_1592632565_868.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
+        "image_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
+        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+    }
+]
