@@ -16,6 +16,7 @@
         "thumbnail_url": "https://i.ibb.co/BsXhn9g/Angular.jpg",
         "image_url": "https://i.ibb.co/BsXhn9g/Angular.jpg",
         "price": 29,
+        "short_details": "Have limited time to learn Angular 4 Angular 2+ Take this course and learn Angular in 10 hours ",
         "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     },
     {
@@ -26,7 +27,7 @@
             "badge": "Excellent"
         },
         "total_students": 488,
-        "title": "React.js Course for Beginner",
+        "title": "React - The Complete Guide",
         "author": {
             "name": "Al-Amin",
             "published_date": "2022-08-24 17:27:34",
@@ -35,7 +36,8 @@
         "thumbnail_url": "https://i.ibb.co/wrWBT7X/React-js.jpg",
         "image_url": "https://i.ibb.co/wrWBT7X/React-js.jpg",
         "price": 19,
-        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+        "short_details": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more! ",
+        "details": "Welcome to React - The Complete Guide This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer. This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer!"
     },
     {
         "_id": "03",
@@ -54,7 +56,8 @@
         "thumbnail_url": "https://i.ibb.co/MSqn24k/Vue-js.jpg",
         "image_url": "https://i.ibb.co/MSqn24k/Vue-js.jpg",
         "price": 39,
-        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+        "short_details": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
+        "details": "Frontend frameworks like Vue JS are extremely popular because they give us this reactive, great user experience we know from mobile apps - but now in the browser! No wonder that jobs requiring frontend framework skills like VueJS are amongst the best paid ones in the industry!  You may know Angular 2+ and ReactJS, well, VueJS combines the best of both frameworks and makes building anything from small widgets to big, enterprise-level apps a breeze and a whole lot of fun!"
     },
     {
         "_id": "04",
@@ -73,6 +76,7 @@
         "thumbnail_url": "https://i.ibb.co/6rQ00RH/Spring.jpg",
         "image_url": "https://i.ibb.co/6rQ00RH/Spring.jpg",
         "price": 29,
+        "short_details": "Spring 5 Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate",
         "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     },
     {
@@ -83,7 +87,7 @@
             "badge": "Excellent"
         },
         "total_students": 320,
-        "title": "Express.js Course for Beginner",
+        "title": "Just Express (with a bunch of node and http). In detail.",
         "author": {
             "name": "MD Alvi",
             "published_date": "2022-08-24 17:27:34",
@@ -92,7 +96,8 @@
         "thumbnail_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
         "image_url": "https://i.ibb.co/Hx8PBxH/Express-js.jpg",
         "price": 19,
-        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+        "short_details": "No MERN or MEAN... just Express js. For those who've learned a bit about the most awesome node framework, and want more.",
+        "details": "You have some notion of what Node, Express, and http are or you wouldn't be here. Node and back-end JavaScript have taken the world by storm, [SOME BIG COMPANY] moved to node and it changed the world, blah blah blah. One of the first things you're going to learn in any node course is about the Express module. But how much do you really learn about it? How to render a page in one template engine? How to make a get and a post route? Most MEAN and MERN stacks students I've met learned Express in a few breaths and then moved on to MongoDB, MySQL, Angular, React, or whatever was in the rest of the tech stack. What is http anyway? "
     },
     {
         "_id": "06",
@@ -111,6 +116,7 @@
         "thumbnail_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
         "image_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
         "price": 25,
+        "short_details": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
         "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
     }
 ]
