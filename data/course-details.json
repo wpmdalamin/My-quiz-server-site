@@ -107,7 +107,7 @@
             "badge": "Excellent"
         },
         "total_students": 50,
-        "title": "Flask Course for Beginner",
+        "title": "The Ultimate Flask Course",
         "author": {
             "name": "MD Shakil",
             "published_date": "2022-08-24 17:27:34",
@@ -116,7 +116,7 @@
         "thumbnail_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
         "image_url": "https://i.ibb.co/HFy7w7k/Flask.jpg",
         "price": 25,
-        "short_details": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
-        "details": "Angular is a popular web development tool that increases your advantage as a developer. Angular training introduces beginners to key concepts and improves existing proficiency for those already familiar with the platform. Begin learning Angular today, and grow your developer expertise with this powerful platform."
+        "short_details": "Learn the fundamentals of the Flask framework and its various extensions",
+        "details": "Welcome to The Ultimate Flask Course. This course is designed to teach you everything you need to know to get started building your own Python-based web apps using the Flask framework. I will teach you the basics of Flask and show you some examples of how to build apps using only the features of the Flask framework itself. Then I will teach you various useful extensions that you can use to make adding more powerful features to your Flask apps much easier and show you example apps using those extensions."
     }
 ]
